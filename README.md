@@ -1,9 +1,16 @@
 # Voice-Controlled OS Shell
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?logo=windows)
+![Project](https://img.shields.io/badge/Type-OS%20Project-orange)
+![Voice](https://img.shields.io/badge/Interface-Voice%20%2B%20Text-green)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-blueviolet)
+![STT](https://img.shields.io/badge/STT-SpeechRecognition-red)
+![TTS](https://img.shields.io/badge/TTS-pyttsx3-yellow)
+![Security](https://img.shields.io/badge/Security-Sandboxed-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Tests](https://img.shields.io/badge/Tests-pytest-blue)
+![CodeStyle](https://img.shields.io/badge/Code%20Style-black-black)
 
 **A Voice-Activated File System Interface**
 
