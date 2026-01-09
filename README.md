@@ -1,10 +1,14 @@
 # Voice-Controlled OS Shell
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Mode](https://img.shields.io/badge/Offline-Local%20Only-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows&logoColor=black))
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
+![Speech](https://img.shields.io/badge/Speech-STT%20%7C%20TTS-orange?style=for-the-badge)
+![Desktop App](https://img.shields.io/badge/Application-Desktop%20%2F%20CLI-lightblue?style=for-the-badge)
+![Sandbox](https://img.shields.io/badge/Security-Sandboxed%20Execution-darkgreen?style=for-the-badge)
+![GUI](https://img.shields.io/badge/GUI-Tkinter-0A1A2F?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Mode-Offline%20Local-success?style=for-the-badge)
+
 
 **A Voice-Activated File System Interface**
 
