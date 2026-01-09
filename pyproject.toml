@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "voice_shell"
+version = "1.0.0"
+description = "A voice-controlled shell with GUI support"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+dependencies = [
+    "SpeechRecognition>=3.8.1",
+    "pyttsx3>=2.90",
+    "pywin32; platform_system=='Windows'"
+]
+
+[project.scripts]
+voice-shell = "voice_shell.main:main"
+
+[tool.setuptools]
+packages = ["voice_shell"]
+package-dir = {"voice_shell" = "src"}
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
