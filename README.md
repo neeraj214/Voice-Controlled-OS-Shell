@@ -1,7 +1,7 @@
 # Voice-Controlled OS Shell
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows&logoColor=black))
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge&logo=windows&logoColor=black)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-blueviolet?style=for-the-badge)
 ![Speech](https://img.shields.io/badge/Speech-STT%20%7C%20TTS-orange?style=for-the-badge)
 ![Desktop App](https://img.shields.io/badge/Application-Desktop%20%2F%20CLI-lightblue?style=for-the-badge)
