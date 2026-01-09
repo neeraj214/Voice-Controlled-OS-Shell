@@ -132,7 +132,7 @@ voice-shell/
 └── requirements.txt   # Project dependencies
 ```
 
-## 🧭 Technical Emphasis (Recruiter-Focused)
+## 🧭 Technical Emphasis
 
 - Operating System Interaction: sandbox-bounded file operations, directory navigation, safe path resolution, platform-aware behavior
 - NLP and Command Parsing: robust regex-based parsing enabling natural phrasing and polite variants; speech recognition with text fallback
