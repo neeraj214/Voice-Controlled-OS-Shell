@@ -447,10 +447,10 @@ class VoiceShell:
                     logging_util.log_event("KeyboardInterrupt", "INTERRUPT", "Advised to use exit command")
                     continue
         
-        # Log shutdown and cleanup
+        #  shutdown and cleanup
         logging_util.log_event("Shell stopped", "SHUTDOWN", "Clean exit")
         self.tts_engine.cleanup()
-        print("\n👋 Goodbye!")
+        print("\n👋 Goodbye! See You Again")
 
 def main():
     """Main entry point."""
