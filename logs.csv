@@ -1,0 +1,122 @@
+timestamp,text,intent_type,outcome
+2025-08-24 22:37:38,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-08-24 22:38:20,3d,UNKNOWN,Command not recognized
+2025-08-24 22:39:43,show file,LIST,Success
+2025-08-24 22:40:42,create file new phd,MKFILE,Success
+2025-08-24 22:41:08,show file,LIST,Success
+2025-08-24 22:41:56,create a search engine,UNKNOWN,Command not recognized
+2025-08-24 22:42:04,create new tx,UNKNOWN,Command not recognized
+2025-08-24 22:42:15,create new txt,UNKNOWN,Command not recognized
+2025-08-24 22:42:21,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2025-08-24 22:42:24,Shell stopped,SHUTDOWN,Clean exit
+2025-08-24 22:50:46,Shell stopped,SHUTDOWN,Clean exit
+2025-11-14 09:21:33,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-14 09:22:48,create a song,UNKNOWN,Command not recognized
+2025-11-14 09:25:11,open notepad,OPEN_APP,Success
+2025-11-14 09:25:40,Shell stopped,SHUTDOWN,Clean exit
+2025-11-14 10:42:14,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-14 10:43:01,open calculator,OPEN_APP,Success
+2025-11-14 10:43:26,where am i where am i,UNKNOWN,Command not recognized
+2025-11-14 10:43:34,where am i,PWD,Success
+2025-11-14 10:44:22,open notification,UNKNOWN,Command not recognized
+2025-11-14 10:44:29,open notepad,OPEN_APP,Success
+2025-11-14 10:46:00,delete file text.txt,DELETE,Delete confirmation requested
+2025-11-14 10:46:00,Request delete file 'text.txt',DELETE_REQUEST,Awaiting confirmation
+2025-11-14 10:46:57,yes,DELETE_CONFIRM,Successfully deleted file 'text.txt'
+2025-11-14 10:47:21,create folder document,MKDIR,Success
+2025-11-14 10:48:00,show files,LIST,Success
+2025-11-14 10:48:28,create file note dxd,MKFILE,Success
+2025-11-14 10:49:09,show file,LIST,Success
+2025-11-14 10:50:33,Shell stopped,SHUTDOWN,Clean exit
+2025-11-14 11:04:20,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2025-11-15 16:08:44,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2025-11-15 16:08:52,Shell stopped,SHUTDOWN,Clean exit
+2025-11-15 16:29:30,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2025-11-15 16:30:56,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2025-11-15 16:31:17,Shell stopped,SHUTDOWN,Clean exit
+2025-11-15 16:31:50,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: disabled"
+2025-11-15 16:33:42,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-15 16:34:28,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:34:39,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:35:06,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:35:23,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:35:35,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:35:50,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:36:03,ERROR,SYSTEM,'VoiceShellUI' object has no attribute 'p'
+2025-11-15 16:47:27,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-15 16:47:44,open notepad,OPEN_APP,Success
+2025-11-15 16:53:40,create file voice dot txt,MKFILE,Success
+2025-11-15 16:54:15,show file voice txt,LIST,Success
+2025-11-15 16:57:56,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-15 16:58:18,open voice txt,OPEN_FILE,Success
+2025-11-15 16:58:36,create file voice txt,MKFILE,Success
+2025-11-15 17:00:28,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-15 17:01:21,Shell stopped,SHUTDOWN,Clean exit
+2025-11-15 23:07:05,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-15 23:07:58,open note dot dst,OPEN_FILE,Success
+2025-11-15 23:08:10,openload txt,UNKNOWN,Command not recognized
+2025-11-15 23:08:31,where am i,PWD,Success
+2025-11-15 23:09:14,tree tree,UNKNOWN,Command not recognized
+2025-11-15 23:09:40,create folder documents,MKDIR,Success
+2025-11-15 23:10:04,where am i,PWD,Success
+2025-11-15 23:10:38,create filename dot txt,UNKNOWN,Command not recognized
+2025-11-15 23:10:53,create file named txt,MKFILE,Success
+2025-11-15 23:11:12,show file,LIST,Success
+2025-11-15 23:11:40,delete file new phd,DELETE,Delete confirmation requested
+2025-11-15 23:11:40,Request delete file 'new phd',DELETE_REQUEST,Awaiting confirmation
+2025-11-15 23:11:52,yas yas,DELETE_CANCEL,Delete file 'new phd' cancelled.
+2025-11-15 23:12:17,show file,LIST,Success
+2025-11-15 23:12:38,size of dogs,SIZE,Success
+2025-11-15 23:13:00,size of dogs,SIZE,Success
+2025-11-15 23:13:17,size of docs,SIZE,Success
+2025-11-15 23:13:44,history,HISTORY,Success
+2025-11-15 23:14:07,recent file 10,UNKNOWN,Command not recognized
+2025-11-15 23:14:27,help,HELP,Success
+2025-11-15 23:14:46,Shell stopped,SHUTDOWN,Clean exit
+2025-11-17 15:19:39,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: disabled"
+2025-11-17 15:19:39,list files,LIST,Success
+2025-11-17 15:19:39,exit,EXIT,Exit requested
+2025-11-17 15:19:39,Shell stopped,SHUTDOWN,Clean exit
+2025-11-17 15:20:34,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: disabled"
+2025-11-17 15:20:34,list files,LIST,Success
+2025-11-17 15:20:34,create file demo.txt,MKFILE,Success
+2025-11-17 15:20:34,append,UNKNOWN,Command not recognized
+2025-11-17 15:20:34,hello,UNKNOWN,Command not recognized
+2025-11-17 15:20:34,from,UNKNOWN,Command not recognized
+2025-11-17 15:20:34,trae to file demo.txt,UNKNOWN,Command not recognized
+2025-11-17 15:20:34,read file demo.txt,READ,Success
+2025-11-17 15:20:34,stats,STATS,Success
+2025-11-17 15:20:34,exit,EXIT,Exit requested
+2025-11-17 15:20:34,Shell stopped,SHUTDOWN,Clean exit
+2025-11-17 15:21:10,Shell started,STARTUP,"Mode: voice, TTS: disabled, UI: disabled"
+2025-11-17 15:21:42,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: enabled"
+2025-11-17 15:23:33,Shell started,STARTUP,"Mode: voice, TTS: disabled, UI: disabled"
+2025-11-17 15:23:51,open notepad,OPEN_APP,Success
+2025-11-17 15:24:07,open calculator,OPEN_APP,Success
+2025-11-17 15:25:16,Shell stopped,SHUTDOWN,Clean exit
+2025-11-17 15:26:55,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: enabled"
+2025-11-17 15:27:17,open notepad,OPEN_APP,Success
+2025-11-17 15:27:28,Shell stopped,SHUTDOWN,Clean exit
+2025-11-17 15:31:13,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: enabled"
+2025-11-17 15:36:21,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: enabled"
+2025-11-17 15:42:18,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-17 15:43:52,Shell started,STARTUP,"Mode: voice, TTS: enabled, UI: enabled"
+2025-11-17 15:44:05,open notepad,OPEN_APP,Success
+2025-11-17 15:45:14,open calculator,OPEN_APP,Success
+2025-11-17 15:45:41,where am i,PWD,Success
+2025-11-17 15:46:02,stats,STATS,Success
+2025-11-17 16:14:46,open notepad,OPEN_APP,Success
+2025-11-17 16:15:33,read file text.txt,READ,Success
+2025-11-20 08:41:24,Shell started,STARTUP,"Mode: text, TTS: disabled, UI: enabled"
+2025-11-20 08:44:10,Shell started,STARTUP,"Mode: voice, TTS: disabled, UI: enabled"
+2025-11-20 08:44:34,open calculator,OPEN_APP,Success
+2025-11-20 08:44:47,embedded project check karne ki kabhi bhi,UNKNOWN,Command not recognized
+2025-11-20 08:45:01,where am i,PWD,Success
+2025-11-20 09:02:08,open calculator,OPEN_APP,Success
+2025-11-20 09:02:37,where am i,PWD,Success
+2025-11-20 09:02:55,44 commands and,UNKNOWN,Command not recognized
+2025-11-20 09:07:57,open notepad,OPEN_APP,Success
+2025-11-20 09:08:16,create folder note txt,MKDIR,Success
+2025-11-20 09:16:57,Shell stopped,SHUTDOWN,Clean exit
+2026-01-09 22:13:58,Shell started,STARTUP,"Mode: text, TTS: enabled, UI: enabled"
+2026-01-09 22:14:22,Shell stopped,SHUTDOWN,Clean exit
