@@ -168,5 +168,12 @@ This project represents a practical application of Operating System concepts and
 ---
 
 <div align="center"> 
-   <sub>Built with ❤️ by <a href="https://github.com/neeraj214">Neeraj Negi</a> as part of the MCA Curriculum.</sub> 
+   <sub>Built with ❤️ by <a href="https://github.com/neeraj214">Neeraj Negi</a> as part of the MCA Curriculum.</sub>
 </div>
+
+---
+
+## ⚙️ Recent Updates
+
+- **Added `.gitignore`**: Excluded standard Python virtual environments, package builds, cache files (`__pycache__`), and local test folders.
+- **Added `logs.csv`**: Staged baseline logging template to ensure activities are captured deterministically during execution.
