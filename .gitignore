@@ -1,0 +1,26 @@
+# Caches and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.tmp
+*.temp
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# Project specific
+voice_shell.egg-info/
+sandbox/
+build/
+dist/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
