@@ -24,3 +24,7 @@ dist/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Presentation files (backed up in OneDrive)
+*.pptx
+*.ppt
